@@ -1,0 +1,15 @@
+{
+  "name": "zalgo-detect",
+  "version": "1.0.0",
+  "description": "Bot To Detect Zalgo Usage In Discord Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant Abhyankar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
